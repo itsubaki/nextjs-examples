@@ -1,4 +1,4 @@
-# nextjs13-training
+# nextjs13-examples
 
 - Using `App Router`
 - `@vercel/kv`
@@ -9,7 +9,7 @@
 Need to install the following packages:
   create-next-app@13.4.0
 Ok to proceed? (y)
-✔ What is your project named? … nextjs13-training
+✔ What is your project named? … nextjs13-examples
 ✔ Would you like to use TypeScript with this project? … No / Yes
 ✔ Would you like to use ESLint with this project? … No / Yes
 ✔ Would you like to use Tailwind CSS with this project? … No / Yes
